@@ -1,5 +1,0 @@
-department name:
-digital
-sap
-finance
-data analystic
